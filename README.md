@@ -8,4 +8,4 @@ I will move some components from MyICs here.
 There are only a few connectors here. I will move many more from MyICs.
 
 ## v0.1
-I have move JLC connectors/Headers from MyICs here.
+I have move JST connectors/Headers from MyICs here.

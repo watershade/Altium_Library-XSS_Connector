@@ -1,0 +1,32 @@
+B6B-PHDSS/X2026WV-2x03-N0SN
+JST PHD Series, 2.0mm Gap, Double Row, 6 Circuit, Top Entry Header
+XKB X2026(JST PHD) Series,2.0mm Gap, Double Row, 6 Circuit, Top Entry Header
+
+B8B-PHDSS/X2026WV-2x04-N0SN
+JST PHD Series, 2.0mm Gap, Double Row, 8 Circuit, Top Entry Header
+XKB X2026(JST PHD) Series,2.0mm Gap,  Double Row, 8 Circuit, Top Entry Header
+
+B10B-PHDSS/X2026WV-2x05-N0SN
+JST PHD Series, 2.0mm Gap, Double Row, 10 Circuit, Top Entry Header
+XKB X2026(JST PHD) Series,2.0mm Gap, Double Row, 10 Circuit, Top Entry Header
+
+S6B-PHDSS/X2026WR-2x03-N0SN
+JST PHD Series, 2.0mm Gap, Double Row, 6 Circuit, Side Entry Header
+XKB X2026(JST PHD) Series, 2.0mm Gap, Double Row, 6 Circuit, Side Entry Header
+
+S8B-PHDSS/X2026WR-2x04-N0SN
+JST PHD Series, 2.0mm Gap, Double Row, 8 Circuit, Side Entry Header
+XKB X2026(JST PHD) Series, 2.0mm Gap, Double Row, 8 Circuit, Side Entry Header
+
+S10B-PHDSS/X2026WR-2x05-N0SN
+JST PHD Series, 2.0mm Gap, Double Row, 10 Circuit, Side Entry Header
+XKB X2026(JST PHD) Series, 2.0mm Gap, Double Row, 10 Circuit, Side Entry Header
+
+X2026WVS-2x03-9TSN
+XKB X2026(JST PHD) Series, 2.0mm Gap, Double Row, 6 Circuit, Top SMT Header
+
+X2026WVS-2x04-9TSN
+XKB X2026(JST PHD) Series, 2.0mm Gap, Double Row, 8 Circuit, Top SMT Header
+
+X2026WVS-2x05-9TSN
+XKB X2026(JST PHD) Series, 2.0mm Gap, Double Row, 10 Circuit, Top SMT Header

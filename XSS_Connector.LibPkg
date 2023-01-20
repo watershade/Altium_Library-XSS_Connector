@@ -62,7 +62,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SSOXDNYT
 
 [Document2]
 DocumentPath=XSS_Connector.SchLib
@@ -79,7 +79,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ZFGOGJUH
 
 [OutputGroup1]
 Name=Netlist Outputs
